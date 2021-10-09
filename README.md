@@ -4,7 +4,7 @@ Factory pattern is one of the most used design patterns in Java. In this reposit
 
 ## Diagram UML
 
-<img src ="factory_pattern_uml_diagram.jpg" alt ="Factory Pattern UML Diagram"/>
+<img src ="/src/factory_pattern_uml_diagram.jpg" alt ="Factory Pattern UML Diagram"/>
 
 
 
